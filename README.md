@@ -2,7 +2,7 @@
 
 An interactive multi-page Power BI dashboard analyzing BMW sales across four models (M3, i8, X3, X6) for 2022–2024.
 
-![Home](images/home.png)
+![Home](images/home.jpg)
 
 ## 🎯 Business Questions
 - How do sales volume, average price, and engine size compare across the four models?
@@ -21,11 +21,11 @@ An interactive multi-page Power BI dashboard analyzing BMW sales across four mod
 
 | M3 | i8 |
 |----|----|
-| ![M3](images/m3.png) | ![i8](images/i8.png) |
+| ![M3](images/m3.jpg) | ![i8](images/i8.jpg) |
 
 | X3 | X6 |
 |----|----|
-| ![X3](images/x3.png) | ![X6](images/x6.png) |
+| ![X3](images/x3.jpg) | ![X6](images/x6.jpg) |
 
 ## 🔍 Key Insights
 - Blue was the top-selling color for the i8, X3, and X6.
