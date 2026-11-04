@@ -36,7 +36,7 @@ An interactive multi-page Power BI dashboard analyzing BMW sales across four mod
 Power BI
 
 ## 📂 Dataset
-Source: [Kaggle or other source]
+Source: Kaggle 
 
 ## 📬 Contact
-[Your Name] | [LinkedIn link] | [Email]
+Menna Mohammad | https://www.linkedin.com/in/mennatullah-mohammad-data-analyst/ | mennatullahabdussamad1@gmail.com
